@@ -1,0 +1,17 @@
+{
+    "name": "ssoares/curso-php",
+    "autoload": {
+        "psr-4": {
+            "Ssoares\\CursoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Henrique",
+            "email": "leonardohenriquesoarasalvez784@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
